@@ -1,10 +1,9 @@
 import "./style.css";
-import "./topics/01-basic-types.ts";
-
-import viteLogo from "/vite.svg";
+import "./topics/04-homework-types.ts";
 
 import { setupCounter } from "./counter.ts";
 import typescriptLogo from "./typescript.svg";
+import viteLogo from "/vite.svg";
 
 const app = document.querySelector<HTMLDivElement>("#app");
 
